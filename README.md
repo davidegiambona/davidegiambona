@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davide Giambona</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 <img align="right" alt="coding" width="400" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg3YTU1NjUwMzI3YWZjMWM4NDQwNmZmMTQ4YWIzZjdkOTQ3YzRjNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidegiambona&label=Profile%20views&color=0e75b6&style=flat" alt="davidegiambona" /> </p>
+
 
 - 🌱 I’m currently learning **Computer Science**
 
