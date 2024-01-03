@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [github.com](github.com)
 
-- 💬 Ask me about web, software development and Networking Administration **es: Java, JavaScript, ElectronJS, Python, MySql, MongoDB etc..**
+- 💬 Ask me about web, software development and Networking Administration **es: C Languages, Cisco Packet Tracer, Java, JavaScript, ElectronJS, Python, MySql, MongoDB etc..**
 
 - 📫 How to reach me **dgiambona82@gmail.com**
 
