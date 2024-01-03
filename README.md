@@ -1,5 +1,5 @@
 <div style="display: flex;justify-content: center;align-items: center;height: 100vh;margin: 0;">
-        <img style="width: 200px;height: 200px;max-width: 100%;max-height: 100%;" src="[https://upload.wikimedia.org/wikipedia/commons/3/3c/IMG_logo_%282017%29.svg](https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/dpa6ybocqsrnm94kg9py/make-2d-animation-video-for-your-project.png)" alt="img">
+        <img style="width: 200px;height: 200px;max-width: 100%;max-height: 100%;" src="https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/dpa6ybocqsrnm94kg9py/make-2d-animation-video-for-your-project.png" alt="img">
     </div>
 
 <h1 align="center">Hi 👋, I'm Davide</h1>
