@@ -1,3 +1,5 @@
+<img src="https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/dpa6ybocqsrnm94kg9py/make-2d-animation-video-for-your-project.png" alt="chillimg" />
+
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">A passionate frontend developer and software development from Italy</h3>
 
