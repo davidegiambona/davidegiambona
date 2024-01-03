@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">A passionate frontend developer and software development from Italy</h3>
 
+
+[![](https://visitcount.itsvg.in/api?id=davidegiambona&icon=1&color=1)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidegiambona&label=Profile%20views&color=0e75b6&style=flat" alt="davidegiambona" /> </p>
 
 <p align="left"> <a href="https://twitter.com/giambonad" target="blank"><img src="https://img.shields.io/twitter/follow/giambonad?logo=twitter&style=for-the-badge" alt="giambonad" /></a> </p>
@@ -32,9 +34,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=davidegiambona&icon=1&color=1)](https://visitcount.itsvg.in)
