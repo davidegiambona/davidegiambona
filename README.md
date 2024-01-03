@@ -1,6 +1,5 @@
-<div style="display: flex;justify-content: center;align-items: center;height: 100vh;margin: 0;">
-        <img style="width: 200px;height: 200px;max-width: 100%;max-height: 100%;" src="https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/dpa6ybocqsrnm94kg9py/make-2d-animation-video-for-your-project.png" alt="img">
-    </div>
+<img src="https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/dpa6ybocqsrnm94kg9py/make-2d-animation-video-for-your-project.png" alt="img">
+
 
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">A passionate frontend developer and software development from Italy</h3>
