@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/giambonad" target="blank"><img src="https://img.shields.io/twitter/follow/giambonad?logo=twitter&style=for-the-badge" alt="giambonad" /></a> </p>
 
-- 📝 I regularly write articles on [args](https://github.com/davidegiambona)
+- 📝 I regularly write articles on [GitHub](https://github.com/davidegiambona)
 
 - 💬 Ask me about web, software development and Networking Administration **es: C Languages, Cisco Packet Tracer, Java, JavaScript, ElectronJS, Python, MySql, MongoDB etc..**
 
