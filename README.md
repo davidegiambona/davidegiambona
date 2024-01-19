@@ -1,4 +1,4 @@
-<img src="https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/dpa6ybocqsrnm94kg9py/make-2d-animation-video-for-your-project.png" alt="img">
+<img src="https://i.pinimg.com/originals/8e/5b/49/8e5b497959b48316f3c635a569cccdb3.jpg" alt="img">
 
 
 <h1 align="center">Hi 👋, I'm Davide</h1>
