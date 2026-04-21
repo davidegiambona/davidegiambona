@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Davide Giambona
 
-### 🚀 Frontend Developer & Software Engineer from Italy 🇮🇹
+### 🚀 Frontend Developer & Engineering Cybernetics and Automata student from Italy 🇮🇹
 
 *Passionate about crafting clean, performant web experiences and always learning something new.*
 
@@ -18,7 +18,7 @@
 ## 🙋‍♂️ About Me
 
 - 🌍 Based in **Palermo, Italy**
-- 💼 Frontend developer focused on building great user experiences
+- 💼 i'm passionate in Embeeded Systems and Full stack developing, focused on building great user experiences
 - 🧠 Currently learning **Data Science**
 - 🔭 Working on personal projects and open source contributions
 - 📬 Reach me at [dgiambona82@gmail.com](mailto:dgiambona82@gmail.com)
@@ -46,7 +46,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Backend & Tools
+### Backend & DB
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,11 +55,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
-### Platforms & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+### Embeeded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
+### OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
@@ -76,16 +78,6 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidegiambona&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&layout=compact&custom_title=Top%20Languages" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=davidegiambona&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
