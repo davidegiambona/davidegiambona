@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Davide Giambona
 
-### 🚀 Frontend Developer & Engineering Cybernetics and Automata student from Italy 🇮🇹
+### 🚀 Full stack Developer & Engineering Cybernetics and Automata student from Italy 🇮🇹
 
 *Passionate about crafting clean, performant web experiences and always learning something new.*
 
